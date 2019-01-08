@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url('https://github.com/m-aiken/image_for_js_30_drum_kit/blob/master/photo_by_isaiah_colson.jpg?raw=true');
+    background: url(/images/photo_by_isaiah_colson.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
